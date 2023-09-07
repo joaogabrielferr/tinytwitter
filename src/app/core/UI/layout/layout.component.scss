@@ -1,0 +1,7 @@
+.container{
+  width:1200px;margin: 0 auto;min-height: 80vh;margin-top: 20px;
+  @media screen and (max-width:1200px){
+    width: 90%;
+  }
+
+}
